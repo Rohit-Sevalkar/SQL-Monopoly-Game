@@ -31,7 +31,7 @@ Players begin with predefined tokens and locations. The properties and their res
 - Special game conditions for dice rolls and player movements.
 
 ## Schema and ER Diagram
-Details of the relational schema and ER diagram are included in the attached files, explaining the design choices and database structure tailored for simulating Monopoly.
+Details of the relational database schema and ER diagram are included in the attached files, explaining the design choices and database structure tailored for simulating Monopoly.
 
 ## Installation & Usage
 
